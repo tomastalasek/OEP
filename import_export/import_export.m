@@ -1,7 +1,7 @@
-%Vytvoříme pomocnou matici, obsahující na prvním řádku čísla 1 až 5 a na druhém 6 až 10
+%Vytvoříme matici A o pětí řádcích a třech sloupcích
 A=rand(5,3)'
 
-%Vytvoříme velkou matici pro potřeby příkazu SAVE
+%Vytvoříme velkou matici B (tisíc řádků a tisíc sloupců) pro potřeby příkazu SAVE
 B=rand(1000);
 
 %=============================
